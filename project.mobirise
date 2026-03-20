@@ -260,7 +260,21 @@
     "uniqCompNum": 11,
     "imageResize": true,
     "imageSearchQuery": "legal abstract",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "favicon": false,
+    "mbrsiteDomain": "caldasecostas",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
